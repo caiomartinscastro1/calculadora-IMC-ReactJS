@@ -1,0 +1,11 @@
+input {
+    border: none;
+    outline: none;
+    padding: 10px;
+    background-color: white;
+    display: block;
+    width: 80%;
+    margin: 20px auto;
+    border-radius: 30px;
+    text-indent: 30px;
+}
